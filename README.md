@@ -56,4 +56,4 @@ Image size: 28 × 28 pixels
 
 Labels: Digits from 0 to 9
 
-The dataset is loaded directly using:
+
